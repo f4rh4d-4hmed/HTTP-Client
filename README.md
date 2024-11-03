@@ -2,7 +2,11 @@
 
 A modern, feature-rich HTTP client application built with Python and Tkinter. This desktop application allows you to send HTTP requests, manage headers and authentication, and analyze responses with a user-friendly interface.
 
-HTTP Client Screenshot
+![Request](https://github.com/user-attachments/assets/7344bb5d-1d9f-4acd-894a-51b43bae8a14)
+![image](https://github.com/user-attachments/assets/b552ea68-92f2-487e-aa35-de51e9ada4f2)
+
+
+
 
 ## Features
 
@@ -89,13 +93,6 @@ python app.py
 - Click "Load" to restore a previously saved request
 - Saved requests are stored in JSON format
 
-## Key Shortcuts
-
-- `Ctrl+S`: Save request
-- `Ctrl+O`: Load request
-- `Ctrl+R`: Send request
-- `Ctrl+T`: Toggle theme
-
 ## Contributing
 
 1. Fork the repository
@@ -112,9 +109,10 @@ sv-ttk
 ## Project Structure
 
 ```
-http-client/
+HTTP-Client/
 │
 ├── app.py
+├── icon.ico
 ├── requirements.txt
 ├── README.md
 ```
