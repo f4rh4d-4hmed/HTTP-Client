@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## Dependencies
 
-- Python 3.6+
+- Python 3.??
 - tkinter
 - requests
 - sv_ttk
